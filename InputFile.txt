@@ -1,0 +1,10 @@
+1 3 X-XOOOX-X X Terminat
+2 3 XXXXXXXXX O Terminat
+3 3 OOXOOOXOX X In derulare
+5 3 XXXOOOXXO X Terminat
+7 3 XXXXXXXXX X In derulare
+8 3 XXXO--XOX X In derulare
+4 4 XXXXOOOOXXXXOOOO O Terminat
+6 3 OOOOOOOOO X Neinceput
+9 3 OOOOOOOOX X Neinceput
+10 5 XOXOXOXO-OXOXOXOXOXOXOXOX X In derulare
